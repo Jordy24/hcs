@@ -27,3 +27,65 @@ Participants in the network:
 	- Some form of transpotation facilitation (transportaion org)
 	- patients
 
+
+********************************
+Assets
+	Documents
+		personal identification information
+		medical history
+		family medical history
+		medication history
+		treatment history
+		medical directives
+
+********************************
+Components of a patient’s records include:
+    Medical records
+    Nursing records/progress notes
+    Medication charts
+    Laboratory orders and reports
+    Vital signs observation charts
+    Handover sheets and admission
+    Discharge and transfer checklists/ letters
+    Patient’s assessment forms, such as nutrition or pressure area care assessment.
+
+
+
+
+********************************
+
+New patient registration
+	first name
+	last name
+	gender (male/female)
+	date_of_birth (month/day/year)
+	address
+		street address
+		city
+		state/province
+		postal / zip code
+		country
+	contact info
+		contact number
+		email
+		emergency info
+			first name
+			last name
+			contact number
+			relationship
+	other info
+		taking medication currently (yes/no)
+		description (if 'yes')
+
+Hospital
+	name
+	address
+		street address
+		city
+		state/province
+		postal / zip code
+		country
+	contact info
+		contact number
+		email
+
