@@ -1,0 +1,19 @@
+{
+  "name": "hcs",
+  "version": "1.0.0",
+  "description": "Health Care Smart Contact",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jordy",
+  "license": "ISC",
+  "dependencies": {
+    "deepmerge": "^4.2.2",
+    "fabric-contract-api": "^2.0.0",
+    "fabric-shim": "^2.0.0"
+  }
+}
